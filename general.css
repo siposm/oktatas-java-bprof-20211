@@ -3,17 +3,20 @@ table {
 }
 
 hr {
-    margin: 50px 0;
+    margin: 50px 0 !important; /* bootstrap override */
 }
 
 td {
-    padding: 10px;
+    padding: 20px 10px;
     border: 4px solid black;
 }
 
 th {
     font-size: 30px;
     color: deeppink;
+    background-color: black;
+    border: 4px solid black;
+    text-align: center !important; /* bootstrap override */
 }
 
 /* On screens that are 900px or less, set the background color to blue */
