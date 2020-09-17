@@ -43,5 +43,5 @@
     - php hozzunk létre egy tömböt elemekkel, írjuk ki a páratlanokat a párosakat pedig adjuk össze és írjuk ki a végeredményt
     - php adja vissza a html állományt (website.html) beolvasva és str-replace-elve
     - php curl (prezi ábra demo)
-    - html form + css
+    - html form + css (!important)
     - php get/post
