@@ -37,6 +37,7 @@
     - js-sel írjuk ki a számokat 20-ig (document + console)
     - js-t rakjuk ki külön file-ba és hivatkozzuk be
     - js hozzunk létre egy tömböt elemekkel, írjuk ki a páratlanokat a párosakat pedig adjuk össze és írjuk ki a végeredményt
+    - document . get element módosítása
 - PHP feladatok
     - webszerver (phpinfo)
     - php-val írjuk ki a számokat 20-ig
