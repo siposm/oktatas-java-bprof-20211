@@ -15,17 +15,21 @@
     
 ### HTML 2
 
-- metaatadokat nézzünk
-- pre és br tag-ek
+- linkek (egyéb html oldalak linkelése)
+- metaatadok
+- pre (code snippet) + br + hr tag-ek
+- table
 - div-vel legyen navigáció és alatta content rész (#nav #content)
 - css
     - inline css
     - internal css
     - external css
-    - nézzünk több css -t (nav + content)
-    - nézzünk bootstrap-et (button)
+    - több css file (nav + content + base)
+    - bootstrap (button)
 - media query (kék háttér vs zöld háttér)
-- margin-padding + border-radius (bootstrap btn-t írjuk felül ID-vel)
+- margin-padding
+- border + border-radius
+- bootstrap btn-t írjuk felül ID-vel
 
 ### JS + PHP
 
